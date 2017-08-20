@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bart Fare</string>
+    <string name="Arrival">arrival</string>
+    <string name="Departure">departure</string>
+    <string name="Search">search</string>
+
+    <string-array name="station_array">
+        <item>12th St. Oakland City Center</item>
+        <item>16th St. Mission (SF)</item>
+        <item>19th St. Oakland</item>
+        <item>24th St. Mission (SF)</item>
+        <item>Ashby (Berkeley)</item>
+        <item>Balboa Park (SF)</item>
+        <item>Bay Fair (San Leandro)</item>
+        <item>Castro Valley</item>
+        <item>Civic Center (SF)</item>
+        <item>Coliseum</item>
+        <item>Colma</item>
+        <item>Concord</item>
+        <item>Daly City</item>
+        <item>Downtown Berkeley</item>
+        <item>Dublin/Pleasanton</item>
+
+
+    </string-array>
+
+
+</resources>
